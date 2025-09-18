@@ -2,7 +2,7 @@
 public class BinarySearch_main {
 public static void main(String[] args) {
 	int arr[]= {1,2,3,4,5,6,7};
-	int to_find=5;
+	int to_find=3;
 	int ans = BinarySearch(arr,to_find);
 	System.out.println(ans);
 }
